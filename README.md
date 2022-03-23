@@ -5,4 +5,4 @@ To upload to server:
 - Join the server
 - In chat (default key '/'), type: #login <password> (you can get the password in your server cfg
 - Next, type #missions
-- In missions, select the mission then launch
+- In missions, select the mission then launch, the mission will be called "Su25" for multiplayer
